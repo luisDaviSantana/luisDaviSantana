@@ -1,27 +1,27 @@
-Olá, eu sou Luís Davi
+👋 Olá, eu sou o Luís Davi!
 
-Sou estudante de Ciência de Dados com foco em análise, modelagem e engenharia de dados aplicada a problemas de negócios. Tenho experiência no desenvolvimento de pipelines, processos de ETL, automações e soluções orientadas a dados, aliando visão analítica, boas práticas de desenvolvimento e organização de código.
+💡 Trabalho com Ciência de Dados e Desenvolvimento end-to-end, unindo análise, engenharia e back-end para transformar dados em soluções completas e utilizáveis.
+🎓 Estudo Ciência de Dados na Fatec Santana de Parnaíba, com foco em desenvolver projetos que vão desde a coleta e preparação dos dados até a entrega de modelos, APIs ou dashboards.
+💼 Procuro oportunidades para atuar em ambientes onde organização, clareza técnica e responsabilidade com o processo façam diferença real nos resultados.
 
-Atualmente, busco oportunidades para aplicar meus conhecimentos em ambientes profissionais, contribuindo para a criação de sistemas eficientes, análises estratégicas e produtos de dados escaláveis.
+🛠️ Tecnologias & Habilidades
 
-Competências Técnicas
-
-Linguagens de Programação: Python, SQL, JavaScript, C, Dart, PL/pgSQL, Bash
-Análise de Dados e Machine Learning: Pandas, NumPy, Scikit-Learn, Matplotlib
-Engenharia e Arquitetura de Dados: ETL, Data Cleaning, Automação, Pipelines, Docker, Docker Compose
+Linguagens: Python, SQL, R, JavaScript, C, Dart, PL/pgSQL, Bash
+Análise & Modelagem: Pandas, NumPy, Matplotlib, Scikit-Learn
+Engenharia de Dados: ETL, pipelines, automação, limpeza de dados, Docker e Docker Compose
 Bancos de Dados: PostgreSQL, MySQL, SQLite
-Desenvolvimento de Software: APIs, Git, GitHub, Versionamento, Contêineres, Estruturação de Projetos
-Ferramentas de Apoio: Power BI, Excel Avançado, Jupyter Notebook, VS Code
-Conhecimentos Complementares: Estatística, KPIs, Visualização de Dados, Documentação Técnica
+Desenvolvimento: APIs, Git, GitHub, versionamento, estruturação de projetos
+Ferramentas: Power BI, Excel Avançado, VS Code, Jupyter
+Outros: Estatística aplicada, KPIs, documentação técnica e visualização de dados
 
-Áreas de Interesse
+🚀 Interesses
 
-Engenharia de Dados e automação de processos
+Projetos de ciência de dados aplicados ao negócio
 
-Desenvolvimento Back-End aplicado a produtos de dados
+Desenvolvimento back-end integrado a produtos de dados
 
-Construção e manutenção de pipelines confiáveis
+Automação e construção de pipelines confiáveis
 
-Modelagem e análise para tomada de decisão
+Dashboards e insights para tomada de decisão
 
 Machine Learning e aplicações práticas de IA
