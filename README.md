@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luís+Davi+Gomes+de+Santana;I'm+20+years+old;I+from+Brasil,+SP;I+hate+java;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dossancto&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Luís Davi Top Languages" /> 
+  <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisDaviSantana&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Luís Davi Top Languages" /> 
   <img width="35%" height="250px" src="https://github-profile-trophy.vercel.app/?username=luisDaviSantana&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
+
 
 ### Tools:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
