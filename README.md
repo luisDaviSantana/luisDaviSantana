@@ -1,27 +1,24 @@
-👋 Olá, eu sou o Luís Davi!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-💡 Trabalho com Ciência de Dados e Desenvolvimento end-to-end, unindo análise, engenharia e back-end para transformar dados em soluções completas e utilizáveis.
-🎓 Estudo Ciência de Dados na Fatec Santana de Parnaíba, com foco em desenvolver projetos que vão desde a coleta e preparação dos dados até a entrega de modelos, APIs ou dashboards.
-💼 Procuro oportunidades para atuar em ambientes onde organização, clareza técnica e responsabilidade com o processo façam diferença real nos resultados.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luís+Davi+Gomes+de+Santana;I'm+20+years+old;I+from+Brasil,+SP;I+hate+java;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🛠️ Tecnologias & Habilidades
+<div align="center">  
+  <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dossancto&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Luís Davi Top Languages" /> 
+  <img width="35%" height="250px" src="https://github-profile-trophy.vercel.app/?username=luisDaviSantana&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
 
-Linguagens: Python, SQL, R, JavaScript, C, Dart, PL/pgSQL, Bash
-Análise & Modelagem: Pandas, NumPy, Matplotlib, Scikit-Learn
-Engenharia de Dados: ETL, pipelines, automação, limpeza de dados, Docker e Docker Compose
-Bancos de Dados: PostgreSQL, MySQL, SQLite
-Desenvolvimento: APIs, Git, GitHub, versionamento, estruturação de projetos
-Ferramentas: Power BI, Excel Avançado, VS Code, Jupyter
-Outros: Estatística aplicada, KPIs, documentação técnica e visualização de dados
+### Tools:
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-🚀 Interesses
+### I like:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 
-Projetos de ciência de dados aplicados ao negócio
+### Other Knowledge:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Desenvolvimento back-end integrado a produtos de dados
-
-Automação e construção de pipelines confiáveis
-
-Dashboards e insights para tomada de decisão
-
-Machine Learning e aplicações práticas de IA
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
