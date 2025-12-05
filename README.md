@@ -1,3 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Luís+Davi+Gomes+de+Santana;Data+Science+Student+%7C+ETL+%7C+ML+%7C+GenAI;Back-End+Developer;Welcome!)](https://git.io/typing-svg)
+
+---
+
+<div align="center">
+  <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisDaviSantana&layout=compact&langs_count=7&theme=dracula&hide=css,html" />
+  <img width="38%" height="250px" src="https://github-profile-trophy.vercel.app/?username=luisDaviSantana&theme=dracula&row=1&column=3&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
 Sou graduando em **Ciência de Dados na FATEC** e formado como **Técnico em Desenvolvimento de Sistemas pela ETEC**.  
 Atuo com **projetos end-to-end**, desde coleta e transformação (ETL/ELT), até análise exploratória, modelos de Machine Learning, dashboards e aplicações orientadas a dados.
